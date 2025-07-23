@@ -1,4 +1,4 @@
-# dji-tello-frimware
+# dji-tello-firmware
 
 002C - Working dump
 001P3 - No wifi dump
